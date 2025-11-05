@@ -3,12 +3,12 @@
     "name": "Custom Zoro Provider",
     "id": "zoro",
     "version": "1.0.0",
-    "code": "https://raw.githubusercontent.com/USERNAME/REPO/main/zoro/index.js"
+    "code": "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json"
   },
   {
     "name": "Custom Animepahe Provider",
     "id": "animepahe",
     "version": "1.0.0",
-    "code": "https://raw.githubusercontent.com/USERNAME/REPO/main/animepahe/index.js"
+    "code": "https://raw.githubusercontent.com/Z0R0-O7/animepahe-cloudstream-repo/refs/heads/main/repo.json"
   }
 ]
