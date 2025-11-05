@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Custom Zoro Provider",
+    "id": "zoro",
+    "version": "1.0.0",
+    "code": "https://raw.githubusercontent.com/USERNAME/REPO/main/zoro/index.js"
+  },
+  {
+    "name": "Custom Animepahe Provider",
+    "id": "animepahe",
+    "version": "1.0.0",
+    "code": "https://raw.githubusercontent.com/USERNAME/REPO/main/animepahe/index.js"
+  }
+]
